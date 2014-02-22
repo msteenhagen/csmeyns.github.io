@@ -1,0 +1,37 @@
+#
+# Site config for a jekyll project
+#
+
+# This will be the first part of the title tag for your site <title> site.name + page.title </title>
+title: "C.S. Meyns"
+
+# Populates the meta description for the site. Should be under 150 characters for best SEO purposes.
+descripiton: "Website"
+
+# Owner (organization or individual) of site content
+author: "C.S. Meyns"
+
+#url: "[http:// ]"
+url: "http://csmeyns.github.io"
+# url: "http://localhost:4000"
+
+# Your UA tracking number (i.e 35858753-1) for Google Analytics. 
+# If you comment this out, or don't fill out this parameter - Google analytics won't be included. 
+# googleID: 39423469-1
+
+# Pagination variable for how many posts to show in a list
+paginate: 10
+
+# Style of permalinks
+permalink: pretty
+
+# Variable format options for URL styles below
+# pretty                                          => /2009/04/29/slap-chop/index.html
+# /:month-month:day-:year/:title.html/            => 04-29-2009/slap-chop.html
+# /blog/:yearr/:month/:day/:title                 => /blog/2009/04/29/slap-chop/index.html
+
+# UnComment once you have pygments installed. Used for code syntax highlighting.
+# pygments: true
+
+# Add anything here you don't want copied to _site. By default anything with a leading underscore won't be copied over.
+exclude: [Rakefile]

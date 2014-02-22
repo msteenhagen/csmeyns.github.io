@@ -1,0 +1,42 @@
+---
+title: Blog Post with Code Examples
+layout: text
+---
+
+<p>
+  JKL comes out of the box with syntax highlighting ready to rock. If you don't like
+  the provided syntax highlighting - just replace _sass/_syntax.scss with your
+  preferred pygments theme.
+</p>
+
+<p>
+  Some examples of syntax highlighting.
+</p>
+
+<h2 class="h3 mt-4">CSS Code</h2>
+{% highlight css %}
+  .ct-r {
+    text-align:center; 
+    @include breakpoint(one-hand) {
+      text-align:left; 
+    }
+  }
+{% endhighlight %}
+
+<h2 class="h3 mt-4">Ruby Code</h2>
+<pre>
+{% highlight ruby %}
+  class KeychainPromotion
+    def initialize(purchase_process)
+      @purchase_process = purchase_process
+    end
+
+    def sign_up_for_mailing_list(customer)
+      MailingList.add(customer)
+      keychain = Product.find("promo-keychain")
+      @purchase_process.purchase_product(customer,keychain)
+    end
+  end    
+{% endhighlight %}
+</pre>
+
