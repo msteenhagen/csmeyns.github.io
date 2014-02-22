@@ -1,7 +1,8 @@
-# JKL
+# C.S. Meyns
 
-A light-weight Jekyll v1.0 blog scaffolding that's ready to deploy after setting up one 
-config. Still under development. Pull requests encouraged && accepted. 
+This is the repository for my website, which can be accessed on http://csmeyns.github.io
+
+I have made use of a nice and elegant template for Jekyll, written by Adam Morse (mrmrs). Visit his GitHub here: https://github.com/mrmrs/ The following is a simple manual I copied for convenience. 
 
 # Get Started
 ```
