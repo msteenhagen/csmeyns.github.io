@@ -1,0 +1,22 @@
+---
+layout: default
+---
+  <section>
+    <div class="single-column">
+      
+    </div>
+  </section>
+  <section>
+    <article class="single-column mt-4">
+      <h1 class="h3 ct">Post Examples</h1>
+      <ul class="large-list ct mt-4">
+        {% for post in paginator.posts %}
+          <li class="large-list--item">
+            <a href="{{ post.url }}" title="{{post.title}}" class="large-list--link">
+              {{ post.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </article>
+  </section>
