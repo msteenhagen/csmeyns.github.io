@@ -7,17 +7,17 @@
 
 - title: Research
   url: /research/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  excerpt: "Read about my work and publications."
   image: research.png
 
 - title: News
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "Upcoming and recent events in which I am involved."
   image: news.png
 
 - title: Contact
   url: /contact/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "Get in touch!"
   image: contact.png
 
 # - title: Publications
