@@ -5,7 +5,7 @@ date: 2014-08-14T16:19:16-04:00
 modified:
 ads: false
 categories: articles
-excerpt: "My review of John Marenbon's <i>The Oxford Handbook of Medieval Philosophy</i>."
+excerpt: "My review of John Marenbon's <em>The Oxford Handbook of Medieval Philosophy</em>."
 tags: []
 image:
   feature: branch-1600x800.jpg
