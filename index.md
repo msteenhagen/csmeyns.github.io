@@ -2,7 +2,7 @@
 layout: home
 top: chris meyns
 center: Chris Meyns
-tagline: I’m a philosopher, working on metaphysics, philosophy of psychology and early modern.
+tagline: metaphysics, psychology, early modern philosophy
 permalink: /
 image:
   feature: city.jpg
