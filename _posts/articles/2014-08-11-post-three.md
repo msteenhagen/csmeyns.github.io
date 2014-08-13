@@ -9,7 +9,7 @@ excerpt: I will be speaking at the Princeton-Penn-Columbia Graduate Conference i
 tags: []
 image:
   feature:
-  teaser: branch-1600x800.jpg
+  teaser: princeton.jpg
   thumb:
 ---
 
