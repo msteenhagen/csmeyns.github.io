@@ -1,0 +1,27 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  excerpt: "More about me."
+  image: 400x250.gif
+
+- title: Research
+  url: /research/
+  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  image: research.png
+
+- title: News
+  url: /articles/
+  excerpt: "Examples of long form posts."
+  image: news.png
+
+- title: Contact
+  url: /contact/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: contact.png
+
+# - title: Publications
+#   url: /publications/
+#   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+#   image: 400x250.gif
+
