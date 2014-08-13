@@ -12,8 +12,8 @@ descripiton: "Website"
 author: "C.S. Meyns"
 
 #url: "[http:// ]"
-url: "http://csmeyns.github.io"
-# url: "http://localhost:4000"
+# url: "http://csmeyns.github.io"
+url: "http://0.0.0.0:4000"
 
 # Your UA tracking number (i.e 35858753-1) for Google Analytics. 
 # If you comment this out, or don't fill out this parameter - Google analytics won't be included. 
