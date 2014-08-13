@@ -3,10 +3,10 @@ layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
 modified:
-excerpt: "This is the Skinny Bones about page."
+excerpt: "More about me."
 tags: []
 image:
-  feature: csm.jpg
+  feature: meyns_sd.jpg
   teaser:
   thumb:
 share: false
