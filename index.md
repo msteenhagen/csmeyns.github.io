@@ -2,7 +2,7 @@
 layout: home
 top: chris meyns
 center: Chris Meyns
-tagline: I’m a philosopher at University College London (UCL). In my work I focus on metaphysics and philosophy of psychology, both in historical and contemporary debates.
+tagline: I’m a philosopher, I work on metaphysics and philosophy of psychology, and am based at University College London (UCL).
 permalink: /
 image:
   feature: wood-texture-1600x800.jpg
