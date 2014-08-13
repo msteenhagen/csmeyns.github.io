@@ -2,7 +2,7 @@
 layout: home
 top: chris meyns
 center: Chris Meyns
-tagline: Reason and randomness
+tagline: I’m a philosopher at University College London (UCL). In my work I focus on metaphysics and philosophy of psychology, both in historical and contemporary debates.
 permalink: /
 image:
   feature: wood-texture-1600x800.jpg
