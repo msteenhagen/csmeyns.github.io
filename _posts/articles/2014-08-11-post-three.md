@@ -8,7 +8,7 @@ categories: articles
 excerpt: I will be speaking at the Princeton-Penn-Columbia Graduate Conference in the History of Philosophy, to be held on April 26 in Princeton this year.
 tags: []
 image:
-  feature:
+  feature: branch-1600x800.jpg
   teaser: princeton.jpg
   thumb:
 ---
