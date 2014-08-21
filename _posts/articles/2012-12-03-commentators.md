@@ -1,0 +1,25 @@
+---
+layout: article
+title: Philosophical Method in Edinburgh
+date: 2014-06-23T16:19:16-04:00
+modified:
+ads: false
+categories: articles
+excerpt: "On May 16 the Edinburgh Women in Philosophy Group hosts its annual Spring Workshop. I will give a response to Amia Srinivasan."
+tags: []
+image:
+  feature: branch-1600x800.jpg
+  teaser: edinburgh.jpg
+  thumb: branch-1600x800.jpg
+---
+
+As Descartes knew, philosophers need to reflect on their methodology sometimes. This indeed we will do. On May 16 the Edinburgh Women in Philosophy Group hosts its annual Spring Workshop, which this year focuses on Philosophical Methodology.
+
+Speakers are:
+
+- Catarina Dutilh Novaes (Groningen)
+- Amia Srinivasan (Oxford)
+- Nancy Bauer (Tufts)
+- Eric Schliesser (Ghent)
+
+I will give a response to Amia Srinivasan’s paper, ‘Does Feminist Philosophy Rest on a Mistake?’
