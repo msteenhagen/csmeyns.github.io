@@ -1,25 +1,18 @@
 ---
 layout: article
-title: Philosophical Method in Edinburgh
-date: 2014-06-23T16:19:16-04:00
+title: Four days of Ancient Commentators
+date: 2012-12-03T16:19:16-04:00
 modified:
 ads: false
 categories: articles
-excerpt: "On May 16 the Edinburgh Women in Philosophy Group hosts its annual Spring Workshop. I will give a response to Amia Srinivasan."
-tags: []
+excerpt: "Twenty-seven years since its inception, the Ancient Commentators on Aristotle project has published its hundredth volume"
+tags: [Aristotle, Ancient Commentators, translation, Sorabji]
 image:
   feature: branch-1600x800.jpg
   teaser: edinburgh.jpg
   thumb: branch-1600x800.jpg
 ---
 
-As Descartes knew, philosophers need to reflect on their methodology sometimes. This indeed we will do. On May 16 the Edinburgh Women in Philosophy Group hosts its annual Spring Workshop, which this year focuses on Philosophical Methodology.
+Twenty-seven years since its inception, the [Ancient Commentators on Aristotle project](http://www.ancientcommentators.org.uk/), lead by Richard Sorabji, has published its hundredth volume (to be precise: [*‘Simplicius’ On Aristotle-On-the-Soul-3.6-13*](http://www.bloomsburyacademic.com/view/Simplicius-On-Aristotle-On-the-Soul-3.6-13/book-ba-9781780932910.xml), translated by Carlos Steel), with still more volumes scheduled to be published. This asks for a celebration.
 
-Speakers are:
-
-- Catarina Dutilh Novaes (Groningen)
-- Amia Srinivasan (Oxford)
-- Nancy Bauer (Tufts)
-- Eric Schliesser (Ghent)
-
-I will give a response to Amia Srinivasan’s paper, ‘Does Feminist Philosophy Rest on a Mistake?’
+From Tuesday 4 until Friday 7 December 2012, the Institute of Philosophy and KCL in London and Wolfson College, Oxford, will transform into hubs of scholarship on late ancient and medieval commenting on Aristotle and, admittedly, also Plato. More info: [Aristotle Transformed](http://www.kcl.ac.uk/artshums/depts/chs/eventrecords/Aristotle.aspx).
