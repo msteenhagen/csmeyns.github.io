@@ -5,7 +5,7 @@ date: 2012-12-03T16:19:16-04:00
 modified:
 ads: false
 categories: articles
-excerpt: "Twenty-seven years since its inception, the Ancient Commentators on Aristotle project has published its hundredth volume"
+excerpt: "Twenty-seven years since its inception, the Ancient Commentators on Aristotle project has published its hundredth volume."
 tags: [Aristotle, Ancient Commentators, translation, Sorabji]
 image:
   feature: branch-1600x800.jpg
