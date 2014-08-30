@@ -3,6 +3,7 @@ layout: article
 title: Metaphysics of powers at Joint Session
 date: 2014-06-10T16:19:16-04:00
 ads: false
+credit: GNU Free Documentation License / Wikipedia /  http://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#mediaviewer/File:A_plug.jpg 
 modified:
 categories: articles
 excerpt: I will present ‘The Distinction of Powers’, at the 2014 Aristotelian Society and Mind Association Joint Session.
