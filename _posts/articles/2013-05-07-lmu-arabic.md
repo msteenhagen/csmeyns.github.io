@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Metaphysics in Arabic at LMU
-date: 2014-06-23T16:19:16-04:00
+date: 2013-05-07T16:19:16-04:00
 modified:
 categories: articles
 excerpt: A two-day seminar on the afterlife of Aristotle's Metaphysics in Arabic.
