@@ -5,7 +5,7 @@ date: 2014-06-10T16:19:16-04:00
 ads: false
 modified:
 categories: articles
-excerpt: I’ll be presenting ‘The Distinction of Powers’, my paper against a manifestation type based distinction of powers, at the 2014 Aristotelian Society and Mind Association Joint Session.
+excerpt: I will present ‘The Distinction of Powers’, at the 2014 Aristotelian Society and Mind Association Joint Session.
 tags: [powers, metaphysics, Joint Session, distinction, Cambridge, talks, conferences]
 image:
   feature: powers-1600.jpg
