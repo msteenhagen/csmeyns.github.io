@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Descartes talk at APA Pacific 2014
+title: Metaphysics in Arabic at LMU
 date: 2014-06-23T16:19:16-04:00
 modified:
 categories: articles
-excerpt: At the upcoming 2014 APA Pacific Division Meeting, I’ll be giving the paper ‘Descartes Against Estimation’, on Descartes’s transformation of a prominent account of primitive evaluative cognition.
-tags: []
+excerpt: A two-day seminar on the afterlife of Aristotle's Metaphysics in Arabic.
+tags: [Aristotle, Metaphysics, Arabic, reception, translation, commentary]
 ads: false
 share: false
 image:
@@ -14,24 +14,4 @@ image:
   thumb:
 ---
 
-At the upcoming 2014 APA Pacific Division Meeting, I’ll be giving the paper ‘Descartes Against Estimation’, on Descartes’s transformation of a prominent account of primitive evaluative cognition. Alex S. Kohav from MSU Denver will be the commentator for this paper.
-
-The paper is part of a session of the newly founded Descartes Society, initiated by Roger Florka (Ursinus College). Here’s the full program for that session:
-
-# DESCARTES SOCIETY SESSION
-
-_Thursday April 17, 6:00-9:00 PM_
-
-- Matthew J. Kisner (University of South Carolina), “Are Cartesian Passions Representational?”
-- Commentator: Shoshana Brassfield (Frostburg State University)
-
-- C. S. Meyns (University College London), “Descartes Against Estimative Power”
-- Commentator: Alex S. Kohav (Metropolitan State University of Denver)
-
-- Marcus Adams (University of Pittsburgh), “The Wax and the Mechanical Mind: Reexamining Hobbes’s Objections to Descartes’s Meditations”
-- Commentator: Jeffrey Ogle (Metropolitan State University of Denver)
-
-_Saturday April 19, 8:00-10:00 PM_
-
-- Alison Simmons (Harvard University), “Mind-body Union and the Limits of Cartesian Metaphysics”
-- Commentator: Roger Florka (Ursinus College)
+What happened to Aristotle’s *Metaphysics* after the author had placed down his stylus? On May 20-21, 2013, the Munich School of Ancient Philosophy (MUSAΦ) of the Ludwig-Maxilimiäns-Universität München hosts a seminar to answer this question, insofar as it concern the Arabic tradition. See: [*The Arabic Version of the Metaphysics*](http://www.philosophie.uni-muenchen.de/aktuelles/arabic-version-of-metaphysics/index.html).
