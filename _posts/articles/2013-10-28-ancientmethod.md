@@ -1,19 +1,16 @@
 ---
 layout: article
-title: Metaphysics of powers at Joint Session
-date: 2014-06-23T16:19:16-04:00
+title: Method in Ancient Philosophy
+date: 2013-10-28T16:19:16-04:00
 ads: false
 modified:
 categories: articles
-excerpt: I’ll be presenting ‘The Distinction of Powers’, my paper against a manifestation type based distinction of powers, at the 2014 Aristotelian Society and Mind Association Joint Session.
-tags: []
+excerpt: "The biennial Keeling colloquium focuses on Method in Ancient Philosophy."
+tags: [Keeling, ancient philosophy, method, conferences]
 image:
   feature: branch-1600x800.jpg
   teaser: joint.jpg
   thumb:
 ---
 
-I’ll be presenting ‘The Distinction of Powers’, my paper against a manifestation type based distinction of powers, at the 2014 Aristotelian Society and Mind Association Joint Session. The Joint Session will be held July 11-13 this year in Cambridge. There are many highlights on the program, so I’d say check it out and come along!
-
-<blockquote class="twitter-tweet" lang="en"><p>Next up in the metaphysics room: Chris Meyns (UCL) on distinctions of powers <a href="https://twitter.com/hashtag/jointsession?src=hash">#jointsession</a> <a href="https://twitter.com/UCLPhilosophy">@UCLPhilosophy</a> <a href="https://twitter.com/csmeyns">@csmeyns</a> <a href="http://t.co/zkyjGLdDfV">pic.twitter.com/zkyjGLdDfV</a></p>&mdash; Aristotelian Society (@Aristotweets) <a href="https://twitter.com/Aristotweets/statuses/488326872816562176">July 13, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+A biennial highlight of the academic calendar: the [S.V. Keeling Memorial Colloquium](http://www.ucl.ac.uk/philosophy/keeling) will be held from November 4-6 this year at UCL. The focus this year is on Method in Ancient Philosophy.
