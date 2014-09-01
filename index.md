@@ -5,7 +5,7 @@ center: Chris Meyns
 tagline: philosopher
 permalink: /
 image:
-  feature: city.jpg
+  feature: city2.jpg
 ---
 
 <div class="tiles">
