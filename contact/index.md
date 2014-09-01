@@ -27,16 +27,16 @@ c.s.meyns [at] gmail [dot] com
 
 ### Mail
 
-Department of Philosophy
-University College London
-Gower Street
+Department of Philosophy  
+University College London  
+Gower Street  
 London, WC1E 6BT
 
 ### Social Media
 
-[Twitter](https://twitter.com/csmeyns) (@csmeyns)
-[Academia.edu](http://ucl.academia.edu/CSMeyns)
-[Google Scholar](http://scholar.google.com/citations?user=KuAxKHEAAAAJ&hl=en)
+[Twitter](https://twitter.com/csmeyns) (@csmeyns)  
+[Academia.edu](http://ucl.academia.edu/CSMeyns)  
+[Google Scholar](http://scholar.google.com/citations?user=KuAxKHEAAAAJ&hl=en)  
 
 <a class="twitter-timeline" href="https://twitter.com/csmeyns" data-widget-id="480670887591411712">Tweets by @csmeyns</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
