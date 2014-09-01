@@ -4,7 +4,7 @@ title: "Contact"
 date: 2014-06-02T09:44:20-04:00
 modified:
 excerpt: "Contact me"
-tags: []
+tags: [contact]
 image:
   feature: 
   teaser:
@@ -14,6 +14,7 @@ ads: false
 ---
 
 C.S. Meyns
+
 Department of Philosophy
 University College London
 Gower Street
