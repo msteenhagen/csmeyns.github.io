@@ -8,9 +8,9 @@ categories: articles
 excerpt: Two exciting events at Yale this week for Leibniz scholars.
 tags: [Yale, Leibniz, Barth, SEMPY, LSNA, consciousness]
 image:
-  feature: branch-1600x800.jpg
-  teaser: princeton.jpg
-  thumb:
+  feature: newhaven-1600.jpg
+  teaser: newhaven-400.jpg
+  thumb: newhaven-120.jpg
 ---
 
 Two exciting events at Yale this week for Leibniz scholars. First, from October 18-20, there will be the Seventh Annual Conference of the [Leibniz Society of North America](http://www.gwleibniz.com/). Talks cover topics ranging from evil to infinity, as well as a standing interest of mine: faculty psychology and the powers of the soul. Here is the full program. 
