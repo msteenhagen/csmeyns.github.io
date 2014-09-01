@@ -11,12 +11,12 @@ date: 2014-06-23T16:19:16-04:00
 modified:
 ads: false
 categories: publications
-excerpt: "On May 16 the Edinburgh Women in Philosophy Group hosts its annual Spring Workshop. I will give a response to Amia Srinivasan."
-tags: []
+excerpt: I have reviewed The Oxford Handbook of Medieval Philosophy (2012), edited by John Marenbon.
+tags: [medieval philosophy, John Marenbon, reviews, publications]
 image:
   feature: branch-1600x800.jpg 
   teaser: branch-1600x800.jpg
   thumb: branch-1600x800.jpg
 ---
 
-I’ve written a review of the new edition of John Blund, Treatise on the Soul (OUP 2013), which is has now been published in the British Journal for the History of Philosophy, Volume 21, Issue 6, 2013.
+My review of _The Oxford Handbook of Medieval Philosophy_ (2012), edited by John Marenbon, will appear soon in the _British Journal for the History of Philosophy_.
