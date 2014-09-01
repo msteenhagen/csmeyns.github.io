@@ -13,9 +13,9 @@ share: false
 ads: false
 ---
 
-### Upcoming Events
+### Upcoming
 
-I am planning to attend the following events. Get in touch if you would like to meet up!
+I am planning to attend the following events. If you would like to meet up, please get in touch!
 
 - [Garberfest: An Early Modern Philosophy Conference Honoring Daniel Garber](https://philosophy.princeton.edu/content/garberfest-early-modern-philosophy-conference-honoring-daniel-garber), Princeton University, September 19-20 2014
 - [American Philosophical Association, Eastern Division Meeting](http://www.apaonline.org/events/event_details.asp?id=322573), Philadelphia, December 27-30 2014
@@ -24,13 +24,6 @@ I am planning to attend the following events. Get in touch if you would like to 
 ### Email
 
 c.s.meyns [at] gmail [dot] com
-
-### Mail
-
-Department of Philosophy  
-University College London  
-Gower Street  
-London, WC1E 6BT
 
 ### Social Media
 
