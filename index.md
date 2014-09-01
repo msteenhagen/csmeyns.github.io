@@ -2,7 +2,7 @@
 layout: home
 top: chris meyns
 center: Chris Meyns
-tagline: metaphysics, psychology, early modern philosophy
+tagline: philosopher
 permalink: /
 image:
   feature: city.jpg
