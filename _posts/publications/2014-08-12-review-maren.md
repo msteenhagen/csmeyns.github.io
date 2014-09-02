@@ -7,7 +7,7 @@ issue:
 year: forthcoming
 doi: 
 link: 
-date: 2014-06-23T16:19:16-04:00
+date: 2014-09-02T16:19:16-04:00
 modified:
 ads: false
 categories: publications
@@ -23,4 +23,4 @@ My review of _The Oxford Handbook of Medieval Philosophy_ (2012), edited by John
 
 An excerpt:
 
->"Manifestos sometimes come in disguise. Throughout the pages of _The Oxford Handbook of Medieval Philosophy_, edited by John Marenbon, runs a declaration of policy: contemporary authors working in what gets called the ‘analytical’ tradition should take medieval philosophy seriously. They should take it seriously, because work from the medieval period contains plenty of relevant ideas, methods and arguments that contemporary authors can learn from (3). If we expected our handbook to sit quietly on the shelves merely to inform us about a subject matter, we were wrong. ..."
+>"Manifestos sometimes come in disguise. Throughout the pages of _The Oxford Handbook of Medieval Philosophy_, edited by John Marenbon, runs a declaration of policy: contemporary authors working in what gets called the ‘analytical’ tradition should take medieval philosophy seriously. They should take it seriously, because work from the medieval period contains plenty of relevant ideas, methods and arguments that contemporary authors can learn from (3). If we expected our handbook to sit quietly on the shelves merely to inform us about a subject matter, we were wrong. (...)"
