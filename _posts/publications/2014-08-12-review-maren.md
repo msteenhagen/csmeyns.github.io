@@ -19,4 +19,4 @@ image:
   thumb: branch-1600x800.jpg
 ---
 
-My review of _The Oxford Handbook of Medieval Philosophy_ (2012), edited by John Marenbon, will appear soon in the _British Journal for the History of Philosophy_.
+My review of _The Oxford Handbook of Medieval Philosophy_ (2012), edited by John Marenbon, is out now in the _British Journal for the History of Philosophy_: [doi.org/10.1080/09608788.2014.949219](http://doi.org/10.1080/09608788.2014.949219).
