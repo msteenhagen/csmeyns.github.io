@@ -1,12 +1,12 @@
 ---
 layout: article
-title: Review of Oxford Handbook for Medieval Philosophy
+title: Review of John Blund, Treatise on the Soul
 journal: British Journal for the History of Philosophy
-volume: 
-issue: 
-year: forthcoming
-doi: 10.1080/09608788.2014.949219
-link: http://doi.org/10.1080/09608788.2014.949219
+volume: 21
+issue: 6
+year: 2013
+doi: 10.1080/09608788.2013.852966
+link: http://www.tandfonline.com/doi/abs/10.1080/09608788.2013.852966
 date: 2014-09-02T16:19:16-04:00
 modified:
 ads: false
