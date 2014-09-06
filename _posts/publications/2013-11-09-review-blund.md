@@ -10,7 +10,7 @@ link: http://www.tandfonline.com/doi/abs/10.1080/09608788.2013.852966
 date: 2013-11-09T16:19:16-04:00
 modified:
 ads: false
-categories: publication
+categories: publications
 excerpt: "I have written a review of the new edition of John Blund, Treatise on the Soul (OUP 2013)."
 tags: [Blund, review, publication, medieval, BJHP]
 image:
