@@ -1,7 +1,7 @@
 ---
 layout: article
 title: What's Imagining Got to do With Images?
-journal: Embodied Fantasies: From Awe to Artifice
+journal: 
 volume: 
 issue: 
 year: 2013
