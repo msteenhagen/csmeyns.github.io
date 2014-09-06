@@ -12,7 +12,7 @@ modified:
 ads: false
 categories: publication
 excerpt: "I have written a review of the new edition of John Blund, Treatise on the Soul (OUP 2013)."
-tags: []
+tags: [Blund, review, publication, medieval, BJHP]
 image:
   feature: branch-1600x800.jpg 
   teaser: branch-1600x800.jpg
