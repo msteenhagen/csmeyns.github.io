@@ -4,7 +4,7 @@ title: Review of Oxford Handbook for Medieval Philosophy
 journal: British Journal for the History of Philosophy
 volume: 
 issue: 
-year: forthcoming
+year: 2014
 doi: 10.1080/09608788.2014.949219
 link: http://doi.org/10.1080/09608788.2014.949219
 date: 2014-09-02T16:19:16-04:00
