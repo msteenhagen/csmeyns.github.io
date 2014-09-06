@@ -11,7 +11,7 @@ date: 2014-09-02T16:19:16-04:00
 modified:
 ads: false
 categories: publications
-excerpt: I have reviewed The Oxford Handbook of Medieval Philosophy (2012), edited by John Marenbon.
+excerpt: "I have reviewed The Oxford Handbook of Medieval Philosophy (2012), edited by John Marenbon."
 tags: [medieval philosophy, John Marenbon, reviews, publications]
 image:
   feature: branch-1600x800.jpg 
