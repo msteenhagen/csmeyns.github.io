@@ -17,3 +17,13 @@ I'm a philosopher at [University College London](www.ucl.ac.uk/philosophy), and 
 
 I have worked on imagination, essence and existence, distinction and explanation, and psychological essentialism. My doctoral research concentrates on early modern and late medieval accounts of distinctions between powers of the soul—for example, between sense, intellect, and memory.
 
+
+<!-- MATERIAL:
+
+I’m a Ph.D. candidate in Philosophy at the University College London. I work primarily in the philosophy of mind, metaphysics, and early modern philosophy. But I’m also interested [STATE].
+
+My dissertation is about [STATE].
+
+In my research, my aim is [DESCRIBE]
+
+ -->

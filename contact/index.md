@@ -17,9 +17,9 @@ ads: false
 
 I am planning to attend the following events. If you would like to meet up, please get in touch!
 
-- [Garberfest: An Early Modern Philosophy Conference Honoring Daniel Garber](https://philosophy.princeton.edu/content/garberfest-early-modern-philosophy-conference-honoring-daniel-garber), Princeton University, September 19-20 2014
-- [American Philosophical Association, Eastern Division Meeting](http://www.apaonline.org/events/event_details.asp?id=322573), Philadelphia, December 27-30 2014
-- British Society for the History of Philosophy conference, University of York, April 2015
+- [2014 Conference on Issues in Modern Philosophy: Animals](http://philosophy.fas.nyu.edu/object/philo.newsevents.modernconference2014.html), New York University, November 21-22, 2014
+- [American Philosophical Association, Eastern Division Meeting](http://www.apaonline.org/events/event_details.asp?id=322573), Philadelphia, December 27-30, 2014
+- [British Society for the History of Philosophy Annual Conference](http://www.bshp.org.uk/conferences/forthcoming), University of York, April 9-11, 2015
 
 ### Email
 
