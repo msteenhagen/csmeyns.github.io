@@ -5,7 +5,7 @@ date: 2014-10-28T16:19:16-04:00
 ads: false
 modified:
 categories: articles
-excerpt: Cartesian evaluative perception at Modern Philosophy Research Group.
+excerpt: I'll give a talk on Cartesian evaluative perception at the Modern Philosophy Research Group at Toronto.
 tags: [Modern Philosophy, University of Toronto, Descartes, perception]
 image:
   feature: desc-1600.jpg
