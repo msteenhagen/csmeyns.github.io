@@ -1,16 +1,16 @@
 ---
 layout: article
-title: Visiting researcher at University of Toronto
-date: 2014-09-01T16:19:16-04:00
+title: Powers talk at Toronto
+date: 2014-11-05T16:19:16-04:00
 ads: false
 modified:
 categories: articles
-excerpt: This academic year I will be a visiting researcher at the University of Toronto.
-tags: [Toronto, visiting, research, Marleen Rozemond]
+excerpt: Can powers actualize? I'll tell you all about it in my talk on November 28 at the University of Toronto.
+tags: [Toronto, visiting, research, ]
 image:
-  feature: uoft-1600.jpg
-  teaser: uoft-400.jpg
-  thumb: uoft-120.jpg
+  feature: per-1600.jpg
+  teaser: per-400.jpg
+  thumb: per-120.jpg
 ---
 
-This academic year I will be a visiting researcher at the [Department of Philosophy of the University of Toronto](http://www.philosophy.utoronto.ca/).
+Can powers actualize? In my talk 'The Relation Between a Power and Its Acts' on November 28 at the University of Toronto I'll tell you all about it.
