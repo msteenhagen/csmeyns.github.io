@@ -2,7 +2,7 @@
 layout: home
 top: chris meyns
 center: Chris Meyns
-tagline: philosopher
+tagline: 
 permalink: /
 image:
   feature: city2.jpg
