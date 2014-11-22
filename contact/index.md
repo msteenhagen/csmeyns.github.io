@@ -17,9 +17,12 @@ ads: false
 
 I am planning to attend the following events. If you would like to meet up, please get in touch!
 
-- [2014 Conference on Issues in Modern Philosophy: Animals](http://philosophy.fas.nyu.edu/object/philo.newsevents.modernconference2014.html), New York University, November 21-22, 2014
 - [American Philosophical Association, Eastern Division Meeting](http://www.apaonline.org/events/event_details.asp?id=322573), Philadelphia, December 27-30, 2014
+- [Innovations in the History of Analytical Philosophy](http://historyofanalyticalphilosophy.mcmaster.ca/), McMaster University, January 9-11, 2015
 - [British Society for the History of Philosophy Annual Conference](http://www.bshp.org.uk/conferences/forthcoming), University of York, April 9-11, 2015
+- [Scientiae 2015: Disciplines of Knowing in the Early Modern World](http://scientiae.co.uk/?page_id=740), Victoria College, University of Toronto, May 27-29, 2015
+- [Early Modern Women on Metaphysics, Religion and Science](http://www.rug.nl/ggw/news/events/2016/early-modern-women-on-metaphysics-religion-and-science), University of Groningen, 21-23 March 2016
+
 
 ### Email
 
