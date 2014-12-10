@@ -13,6 +13,6 @@ image:
   thumb: neuro-120.jpg
 ---
 
-I recently joined the interdisciplinary [Exploring Neuroculture](http://www.humanities.utoronto.ca/WG14-15_exploring_neuroculture) working group at the Jackman Humanities Institute, University of Toronto. The aim of the group is to study the expanding appeal to neuroscientific findings in wider culture, from law and literature to history and education. 
+I recently joined the interdisciplinary [Exploring Neuroculture](http://www.humanities.utoronto.ca/WG14-15_exploring_neuroculture) working group at the [Jackman Humanities Institute](http://www.humanities.utoronto.ca), University of Toronto. The aim of the group is to study the expanding appeal to neuroscientific findings in wider culture, from law and literature to history and education. 
 
 _Image: Basic circuit of the hippocampus, drawn by Santiago Ramón y Cajal._
