@@ -5,7 +5,7 @@ date: 2014-12-01T09:19:16-04:00
 ads: false
 modified:
 categories: articles
-excerpt: 
+excerpt: Recently I joined the interdisciplinary Exploring Neuroculture working group at the Jackman Humanities Institute.
 tags: [neuroculture, neuroscience, humanities, jackman humanities institute]
 image:
   feature: neuro-1600.jpg
