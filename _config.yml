@@ -5,8 +5,8 @@ description: "Philosopher"
 logo: cm15-120.jpg
 teaser: cm15-400.jpg
 locale: en_US
-url: http://0.0.0.0:4000/
-# url: http://csmeyns.github.io
+# url: http://0.0.0.0:4000/
+url: http://csmeyns.github.io
 
 # Jekyll configuration
 
