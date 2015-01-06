@@ -1,25 +1,29 @@
 ---
 layout: article
-title: "Chris Meyns is a researcher, writer and manuscript lover with some quirky ideas about reason and plasticity."
+title: "About"
 date: 2014-06-02T09:44:20-04:00
-modified: 2015-01-05T09:44:20-04:00
+modified:
 excerpt: "More about me."
-tags: [meyns, background, about]
+tags: [meyns, philosophy, about]
 image:
-  feature: 
-  teaser: cm15-400.jpg
-  thumb: cm15-120.jpg
+  feature: meyns_sd.jpg
+  teaser:
+  thumb:
 share: false
 ads: false
 ---
 
-I am a researcher in philosophy at <a href="http://www.ucl.ac.uk/philosophy" target="_blank">University College London</a>. In the 2014/15 academic year I hold a Visiting Research position at the <a href="http://www.philosophy.utoronto.ca" target="_blank">University of Toronto</a>. My work is in metaphysics, philosophy of psychology, and early modern philosophy. Prior to joining London and Toronto, I held visiting positions at <a href="http://philosophy.yale.edu/" target="_blank">Yale University</a> and <a href="http://www.philosophie.uni-muenchen.de/index.html" target="_blank">LMU Munich</a>. A copy of my CV can be found 
-<a href="https://dl.dropboxusercontent.com/u/14527061/meyns_CV.pdf" target="_blank">here</a>.
+I'm a philosopher at [University College London](www.ucl.ac.uk/philosophy), and in 2014/15 I hold a Visiting Research position in philosophy at the [University of Toronto](www.philosophy.utoronto.ca). My work focuses on metaphysics and philosophy of psychology, and both in contemporary and historical debates. In particular, I study discussions in the early modern and late medieval period, which exhibit a deep rethinking of and radical continuities in the most fundamental metaphysical and psychological categories.
 
-My current research project, [The Individuation of the Powers of the Soul](/media/ips), concentrates on early modern accounts of psychological capacities, such as sense perception, thought, and memory. In addition, I have worked on imagination, plasticity, distinction and explanation, and psychological essentialism.
+I have worked on imagination, essence and existence, distinction and explanation, and psychological essentialism. My doctoral research concentrates on early modern and late medieval accounts of distinctions between powers of the soul—for example, between sense, intellect, and memory.
 
-<figure>
-	<img src="/images/cm15-1000.jpg">
-	<figcaption>Photo by Studio False Positives.</figcaption>
-</figure>
 
+<!-- MATERIAL:
+
+I’m a Ph.D. candidate in Philosophy at the University College London. I work primarily in the philosophy of mind, metaphysics, and early modern philosophy. But I’m also interested [STATE].
+
+My dissertation is about [STATE].
+
+In my research, my aim is [DESCRIBE]
+
+ -->

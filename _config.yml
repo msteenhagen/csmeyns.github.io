@@ -1,12 +1,11 @@
 # Site wide configuration
 
 title: Chris Meyns
-description: "Philosopher"
-logo: cm15-120.jpg
-teaser: cm15-400.jpg
+description: "A lightweight site starter for Jekyll"
+logo: 120x120.gif
+teaser: 400x250.gif
 locale: en_US
-url: http://0.0.0.0:4000/
-# url: http://csmeyns.github.io
+url: http://csmeyns.github.io
 
 # Jekyll configuration
 
@@ -26,7 +25,7 @@ owner:
   web: http://csmeyns.github.io
   email: c.s.meyns@gmail.com
   twitter: csmeyns
-  bio: "Philosopher"
+  bio: "Philosopher."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: +c.s.meyns

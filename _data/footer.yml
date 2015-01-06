@@ -3,11 +3,8 @@
 - title: Home
   url: /
 
-- title: Research
-  url: /research/
-
-- title: News
-  url: /news/
-
 - title: About
   url: /about/
+
+- title: Contact
+  url: /contact/

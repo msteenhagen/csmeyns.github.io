@@ -2,9 +2,9 @@
 layout: article
 title: Review of Oxford Handbook for Medieval Philosophy
 journal: British Journal for the History of Philosophy
-volume: 22
-issue: 4
-year: 2014
+volume: 
+issue: 
+year: forthcoming
 doi: 10.1080/09608788.2014.949219
 link: http://doi.org/10.1080/09608788.2014.949219
 date: 2014-09-02T16:19:16-04:00
@@ -14,12 +14,12 @@ categories: publications
 excerpt: "I have reviewed The Oxford Handbook of Medieval Philosophy (2012), edited by John Marenbon."
 tags: [medieval philosophy, John Marenbon, reviews, publications]
 image:
-  feature: build-1600.jpg 
-  teaser: build-1600.jpg
-  thumb: build-1600.jpg
+  feature: branch-1600x800.jpg 
+  teaser: branch-1600x800.jpg
+  thumb: branch-1600x800.jpg
 ---
 
-My review of _The Oxford Handbook of Medieval Philosophy_ (2012), edited by John Marenbon, is out now in the _British Journal for the History of Philosophy_: [doi.org/10.1080/09608788.2014.949219](http://doi.org/10.1080/09608788.2014.949219) ([pdf](/pdfs/meyns_marenbon.pdf)).
+My review of _The Oxford Handbook of Medieval Philosophy_ (2012), edited by John Marenbon, is out now in the _British Journal for the History of Philosophy_: [doi.org/10.1080/09608788.2014.949219](http://doi.org/10.1080/09608788.2014.949219).
 
 An excerpt:
 

@@ -10,8 +10,8 @@ ads: false
 share: false
 image:
   feature: money-1600.jpg
-  teaser: money-1600.jpg
-  thumb: money-1600.jpg
+  teaser: money-400.jpg
+  thumb: money-120.jpg
 ---
 
 What happened to Aristotle’s *Metaphysics* after the author had placed down his stylus? On May 20-21, 2013, the Munich School of Ancient Philosophy (MUSAΦ) of the Ludwig-Maxilimiäns-Universität München hosts a seminar to answer this question, insofar as it concern the Arabic tradition. See: [*The Arabic Version of the Metaphysics*](http://www.philosophie.uni-muenchen.de/aktuelles/arabic-version-of-metaphysics/index.html).

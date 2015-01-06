@@ -10,8 +10,8 @@ excerpt: I will present ‘The Distinction of Powers’, at the 2014 Aristotelia
 tags: [powers, metaphysics, Joint Session, distinction, Cambridge, talks, conferences]
 image:
   feature: powers-1600.jpg
-  teaser: powers-1600.jpg
-  thumb: powers-1600.jpg
+  teaser: powers-400.jpg
+  thumb: powers-120.jpg
 ---
 
 I’ll be presenting ‘The Distinction of Powers’, my paper against a manifestation type based distinction of powers, at the [2014 Aristotelian Society and Mind Association Joint Session](http://www.phil.cam.ac.uk/joint-session/js). The Joint Session will be held July 11-13 this year at Fitzwilliam College, Cambridge. There are many highlights on the program, so I would advise anyone to check it out and come along!
