@@ -14,9 +14,11 @@ categories: publications
 excerpt: "A paper on imagination."
 tags: [imagination, psychology, images, publications]
 image:
-  feature: branch-1600x800.jpg 
-  teaser: branch-1600x800.jpg
-  thumb: branch-1600x800.jpg
+  feature: eye-1600.jpg 
+  teaser: eye-1600.jpg
+  thumb: eye-1600.jpg
 ---
 
 Does imagining have anything to do with images? This paper gives my answer to the question.
+
+ Image: _Model eye, glass lens with brass-backed paper front with hand-painted face around eye_, by W. and S. Jones (London, 1840-1900), [Wellcome Images](http://wellcomeimages.org), Creative Commons.

@@ -14,9 +14,9 @@ categories: publications
 excerpt: "I have written a review of the new edition of John Blund, Treatise on the Soul (OUP 2013)."
 tags: [Blund, review, publication, medieval, BJHP]
 image:
-  feature: branch-1600x800.jpg 
-  teaser: branch-1600x800.jpg
-  thumb: branch-1600x800.jpg
+  feature: kirche-1600.jpg 
+  teaser: kirche-1600.jpg
+  thumb: kirche-1600.jpg
 ---
 
-I have written a review of the new edition of John Blund, _Treatise on the Soul_ (OUP 2013), which is has now been published in the [_British Journal for the History of Philosophy_, Volume 21, Issue 6, 2013](http://doi.org/10.1080/09608788.2013.852966).
+I have written a review of the new edition of John Blund, _Treatise on the Soul_ (OUP 2013), which is has now been published in the [_British Journal for the History of Philosophy_, Volume 21, Issue 6, 2013](http://doi.org/10.1080/09608788.2013.852966) ([pdf](/pdfs/meyns_blund.pdf)).
