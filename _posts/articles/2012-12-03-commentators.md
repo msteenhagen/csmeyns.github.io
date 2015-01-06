@@ -9,8 +9,8 @@ excerpt: "Twenty-seven years since its inception, the Ancient Commentators on Ar
 tags: [Aristotle, Ancient Commentators, translation, Sorabji]
 image:
   feature: book-1600.jpg
-  teaser: book-400.jpg
-  thumb: book-120.jpg
+  teaser: book-1600.jpg
+  thumb: book-1600.jpg
 ---
 
 Twenty-seven years since its inception, the [Ancient Commentators on Aristotle project](http://www.ancientcommentators.org.uk/), lead by Richard Sorabji, has published its hundredth volume (to be precise: [*‘Simplicius’ On Aristotle-On-the-Soul-3.6-13*](http://www.bloomsburyacademic.com/view/Simplicius-On-Aristotle-On-the-Soul-3.6-13/book-ba-9781780932910.xml), translated by Carlos Steel), with still more volumes scheduled to be published. This asks for a celebration.

@@ -9,8 +9,8 @@ excerpt: Can powers actualize? I'll tell you all about it in my talk on November
 tags: [Toronto, visiting, research, ]
 image:
   feature: per-1600.jpg
-  teaser: per-400.jpg
-  thumb: per-120.jpg
+  teaser: per-1600.jpg
+  thumb: per-1600.jpg
 ---
 
 Can powers actualize? In my talk 'The Relation Between a Power and Its Acts' on November 28 at the University of Toronto I'll tell you all about it. Here is the abstract:
