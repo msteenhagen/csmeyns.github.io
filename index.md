@@ -92,7 +92,7 @@ image:
         <a href="http://ucl.academia.edu/CSMeyns" class="btn-success" target="_blank">Academia</a>
         <a href="http://scholar.google.com/citations?hl=en&user=KuAxKHEAAAAJ" target="_blank" class="btn-info">Google scholar</a>
         <!-- <a href="PHILPAPERS" class="btn-warning">PhilPapers</a> -->
-	<a href="ca.linkedin.com/in/csmeyns" class="btn-social linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+	<a href="http://ca.linkedin.com/in/csmeyns" class="btn-social linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
        <a href="http://twitter.com/csmeyns" class="btn-social twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>Twitter</a>
         <a href="{{ site.url }}/feed.xml" class="btn-social rss" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i> RSS</a>
   </div>
