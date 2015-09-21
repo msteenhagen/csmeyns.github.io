@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: redirect
 top: chris meyns
 center: Chris Meyns
 tagline: metaphysics, psychology, early modern philosophy
